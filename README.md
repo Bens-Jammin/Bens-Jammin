@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ben</h1>
+<h1 align="center">Hi, i'm Ben</h1>
 <h3 align="center">uOttawa Student majoring in computer science, minoring in statistics</h3>
 
 <h3 align="left">Connect with me:</h3>
