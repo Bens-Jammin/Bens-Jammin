@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">uOttawa student majoring in CS, minoring in Statistics</h3>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/Bens-Jammin/ExpenseTracker)
+- 🔭 I’m currently working on an [Expense Tracker](https://github.com/Bens-Jammin/ExpenseTracker)
 
 - 🌱 I’m currently learning **Java, SQL**
 
