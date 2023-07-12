@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">I'm a second year computer science student studying at the University of Ottawa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bens-jammin" alt="bens-jammin" /></a> </p>
 
 - 🔭 I’m currently working on an [Personal finance tracking application](https://github.com/Bens-Jammin/ExpenseTracker)
 
