@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Algorithm designs**
 
-- 📫 How to reach me ** benemiller@gmail.com**
+- 📫 How to reach me **benemiller@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
